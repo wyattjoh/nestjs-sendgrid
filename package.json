@@ -34,11 +34,11 @@
   "author": "ntegral inc.",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^7.0.1",
+    "@sendgrid/mail": "^8.1.6",
     "deepmerge": "^4.2.2"
   },
   "devDependencies": {
-    "@nestjs/common": "^6.11.11",
+    "@nestjs/common": "^11.1.17",
     "@nestjs/core": "^6.11.11",
     "@nestjs/testing": "^6.11.11",
     "@types/deepmerge": "^2.2.0",
